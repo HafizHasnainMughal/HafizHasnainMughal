@@ -1,4 +1,5 @@
 # 💫 About Me:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=246DF7&width=435&lines=Hi+%F0%9F%91%8B+I'm+Hafiz+Hasnain+Mughal;Aspiring+AI+Researcher;Building+Real-World+Projects)](https://git.io/typing-svg)
 Computer Science Student 💻 💻 Python | ☕ Java | 🌐 HTML | 🎨 CSS 🤖 AI • Machine Learning • Deep Learning • Data Science .data base 🚀 Open to learning and collabora 
 
 
