@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hafiz Hasnain Mughal</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=1000&lines=%F0%9F%90%8D+Focused+on+Python+Development+and+AI+Technologies;%F0%9F%A4%96+Interested+in+Artificial+Intelligence,+Machine+Learning,+Deep+Learning,+and+Data+Science;%F0%9F%9A%80+Building+Real-World+Projects;%F0%9F%8C%9F+Always+Learning+New+Technologies" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=1000&lines=%F0%9F%90%8D+Focused+on+Python+Development+and+AI+Technologies;%F0%9F%A4%96+Interested+in+AI,+ML,+DL,+and+Data+Science;%F0%9F%9A%80+Building+Real-World+Projects;%F0%9F%8C%9F+Always+Learning+New+Technologies" alt="Typing SVG" />
 </a>
 </p>
 
@@ -39,15 +39,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=HafizHasnainMughal&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
-
-</p>
-
----
 
 
 # 🌐 Connect With Me
@@ -61,7 +52,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HafizHasnainMughal/HafizHasnainMughal/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/HafizHasnainMughal/HafizHasnainMughal/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </p>
 
 
@@ -77,11 +68,6 @@
 
 ---
 
-# 💡 Quote
-
-> **"Stay Curious. Keep Building. Never Stop Learning."**
-
----
 
 <p align="center">
 
