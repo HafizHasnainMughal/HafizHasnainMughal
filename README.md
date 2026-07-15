@@ -50,10 +50,11 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HafizHasnainMughal/HafizHasnainMughal/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
-</p>
+<!-- Snake Animation Section -->
+<div align="center">
+  
+  <img src="https://raw.githubusercontent.com/HafizHasnainMughal/HafizHasnainMughal/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
+</div>
 
 
 # 📚 Currently Learning
